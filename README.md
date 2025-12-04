@@ -13,12 +13,3 @@
   - SuperJob
   - Habr Career
 
-## Структура проекта
-vacancy_parser/
-├── main.py # Основной скрипт
-├── parsers/ # Парсеры для разных сайтов
-├── models/ # Модели данных
-├── utils/ # Вспомогательные функции
-├── requirements.txt # Зависимости
-├── README.md # Эта документация
-└── .gitignore # Игнорируемые файлы
