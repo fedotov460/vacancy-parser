@@ -1,0 +1,87 @@
+2025-11-09T01:43:24.142519400 - Scheduler triggered at 2025-11-09T01:43:24.141518300+05:00[Asia/Yekaterinburg] - submitting parser task
+2025-11-09T01:43:24.143516400 - Task started in pool-2-thread-1 at 2025-11-09T01:43:24.143516400+05:00[Asia/Yekaterinburg]
+2025-11-09T01:43:24.496517400 - Task completed in pool-2-thread-1 at 2025-11-09T01:43:24.496517400+05:00[Asia/Yekaterinburg]
+2025-11-09T01:48:18.402600900 - Scheduler triggered at 2025-11-09T01:48:18.402600900+05:00[Asia/Yekaterinburg] - submitting parser task
+2025-11-09T01:48:18.404605500 - Task started in pool-2-thread-1 at 2025-11-09T01:48:18.404605500+05:00[Asia/Yekaterinburg]
+2025-11-09T01:48:18.748606600 - Task completed in pool-2-thread-1 at 2025-11-09T01:48:18.748606600+05:00[Asia/Yekaterinburg]
+2025-11-09T01:48:48.406701800 - Scheduler triggered at 2025-11-09T01:48:48.406701800+05:00[Asia/Yekaterinburg] - submitting parser task
+2025-11-09T01:48:48.407703400 - Task started in pool-2-thread-2 at 2025-11-09T01:48:48.407703400+05:00[Asia/Yekaterinburg]
+2025-11-09T01:48:48.412703700 - Task completed in pool-2-thread-2 at 2025-11-09T01:48:48.412703700+05:00[Asia/Yekaterinburg]
+2025-11-09T01:50:26.903114100 - Scheduler triggered at 2025-11-09T01:50:26.903114100+05:00[Asia/Yekaterinburg] - submitting parser task
+2025-11-09T01:50:26.904120300 - Task started in pool-2-thread-1 at 2025-11-09T01:50:26.904120300+05:00[Asia/Yekaterinburg]
+2025-11-09T01:50:27.234118900 - Task completed in pool-2-thread-1 at 2025-11-09T01:50:27.234118900+05:00[Asia/Yekaterinburg]
+2025-11-09T01:50:56.906095300 - Scheduler triggered at 2025-11-09T01:50:56.906095300+05:00[Asia/Yekaterinburg] - submitting parser task
+2025-11-09T01:50:56.908105300 - Task started in pool-2-thread-2 at 2025-11-09T01:50:56.908105300+05:00[Asia/Yekaterinburg]
+2025-11-09T01:50:56.914095400 - Task completed in pool-2-thread-2 at 2025-11-09T01:50:56.914095400+05:00[Asia/Yekaterinburg]
+2025-11-09T01:51:26.911128900 - Scheduler triggered at 2025-11-09T01:51:26.911128900+05:00[Asia/Yekaterinburg] - submitting parser task
+2025-11-09T01:51:26.911128900 - Task started in pool-2-thread-1 at 2025-11-09T01:51:26.911128900+05:00[Asia/Yekaterinburg]
+2025-11-09T01:51:26.916127700 - Task completed in pool-2-thread-1 at 2025-11-09T01:51:26.915129400+05:00[Asia/Yekaterinburg]
+2025-11-09T01:51:56.913403400 - Scheduler triggered at 2025-11-09T01:51:56.912392700+05:00[Asia/Yekaterinburg] - submitting parser task
+2025-11-09T01:51:56.913403400 - Task started in pool-2-thread-2 at 2025-11-09T01:51:56.913403400+05:00[Asia/Yekaterinburg]
+2025-11-09T01:51:56.918394800 - Task completed in pool-2-thread-2 at 2025-11-09T01:51:56.917395200+05:00[Asia/Yekaterinburg]
+2025-11-09T01:52:26.916223400 - Scheduler triggered at 2025-11-09T01:52:26.916223400+05:00[Asia/Yekaterinburg] - submitting parser task
+2025-11-09T01:52:26.916223400 - Task started in pool-2-thread-1 at 2025-11-09T01:52:26.916223400+05:00[Asia/Yekaterinburg]
+2025-11-09T01:52:26.920224 - Task completed in pool-2-thread-1 at 2025-11-09T01:52:26.920224+05:00[Asia/Yekaterinburg]
+2025-11-09T01:52:56.918256400 - Scheduler triggered at 2025-11-09T01:52:56.918256400+05:00[Asia/Yekaterinburg] - submitting parser task
+2025-11-09T01:52:56.918256400 - Task started in pool-2-thread-2 at 2025-11-09T01:52:56.918256400+05:00[Asia/Yekaterinburg]
+2025-11-09T01:52:56.922261400 - Task completed in pool-2-thread-2 at 2025-11-09T01:52:56.922261400+05:00[Asia/Yekaterinburg]
+2025-11-09T01:53:26.920326700 - Scheduler triggered at 2025-11-09T01:53:26.919325500+05:00[Asia/Yekaterinburg] - submitting parser task
+2025-11-09T01:53:26.922376600 - Task started in pool-2-thread-1 at 2025-11-09T01:53:26.922376600+05:00[Asia/Yekaterinburg]
+2025-11-09T01:53:26.931316400 - Task completed in pool-2-thread-1 at 2025-11-09T01:53:26.931316400+05:00[Asia/Yekaterinburg]
+2025-11-09T01:53:56.975484600 - Scheduler triggered at 2025-11-09T01:53:56.974501400+05:00[Asia/Yekaterinburg] - submitting parser task
+2025-11-09T01:53:56.997465500 - Task started in pool-2-thread-2 at 2025-11-09T01:53:56.997465500+05:00[Asia/Yekaterinburg]
+2025-11-09T01:53:57.054465700 - Task completed in pool-2-thread-2 at 2025-11-09T01:53:57.054465700+05:00[Asia/Yekaterinburg]
+2025-11-09T01:54:26.998706700 - Scheduler triggered at 2025-11-09T01:54:26.998706700+05:00[Asia/Yekaterinburg] - submitting parser task
+2025-11-09T01:54:26.998706700 - Task started in pool-2-thread-1 at 2025-11-09T01:54:26.998706700+05:00[Asia/Yekaterinburg]
+2025-11-09T01:54:27.055706200 - Task completed in pool-2-thread-1 at 2025-11-09T01:54:27.055706200+05:00[Asia/Yekaterinburg]
+2025-11-09T01:54:57.000102 - Scheduler triggered at 2025-11-09T01:54:57.000102+05:00[Asia/Yekaterinburg] - submitting parser task
+2025-11-09T01:54:57.000102 - Task started in pool-2-thread-2 at 2025-11-09T01:54:57.000102+05:00[Asia/Yekaterinburg]
+2025-11-09T01:54:57.026083300 - Task completed in pool-2-thread-2 at 2025-11-09T01:54:57.026083300+05:00[Asia/Yekaterinburg]
+2025-11-09T01:55:27.002905700 - Scheduler triggered at 2025-11-09T01:55:27.001892200+05:00[Asia/Yekaterinburg] - submitting parser task
+2025-11-09T01:55:27.002905700 - Task started in pool-2-thread-1 at 2025-11-09T01:55:27.002905700+05:00[Asia/Yekaterinburg]
+2025-11-09T01:55:27.055900 - Task completed in pool-2-thread-1 at 2025-11-09T01:55:27.055900+05:00[Asia/Yekaterinburg]
+2025-11-09T01:55:57.004403500 - Scheduler triggered at 2025-11-09T01:55:57.004403500+05:00[Asia/Yekaterinburg] - submitting parser task
+2025-11-09T01:55:57.004403500 - Task started in pool-2-thread-2 at 2025-11-09T01:55:57.004403500+05:00[Asia/Yekaterinburg]
+2025-11-09T01:55:57.032403600 - Task completed in pool-2-thread-2 at 2025-11-09T01:55:57.032403600+05:00[Asia/Yekaterinburg]
+2025-11-09T01:56:27.005629 - Scheduler triggered at 2025-11-09T01:56:27.005629+05:00[Asia/Yekaterinburg] - submitting parser task
+2025-11-09T01:56:27.005629 - Task started in pool-2-thread-1 at 2025-11-09T01:56:27.005629+05:00[Asia/Yekaterinburg]
+2025-11-09T01:56:27.052627900 - Task completed in pool-2-thread-1 at 2025-11-09T01:56:27.052627900+05:00[Asia/Yekaterinburg]
+2025-11-09T01:56:57.049264200 - Scheduler triggered at 2025-11-09T01:56:57.049264200+05:00[Asia/Yekaterinburg] - submitting parser task
+2025-11-09T01:56:57.049264200 - Task started in pool-2-thread-2 at 2025-11-09T01:56:57.049264200+05:00[Asia/Yekaterinburg]
+2025-11-09T01:56:57.053268800 - Task completed in pool-2-thread-2 at 2025-11-09T01:56:57.053268800+05:00[Asia/Yekaterinburg]
+2025-11-09T01:57:27.050278900 - Scheduler triggered at 2025-11-09T01:57:27.050278900+05:00[Asia/Yekaterinburg] - submitting parser task
+2025-11-09T01:57:27.050278900 - Task started in pool-2-thread-1 at 2025-11-09T01:57:27.050278900+05:00[Asia/Yekaterinburg]
+2025-11-09T01:57:27.099280 - Task completed in pool-2-thread-1 at 2025-11-09T01:57:27.099280+05:00[Asia/Yekaterinburg]
+2025-11-09T01:57:57.052634500 - Scheduler triggered at 2025-11-09T01:57:57.052634500+05:00[Asia/Yekaterinburg] - submitting parser task
+2025-11-09T01:57:57.052634500 - Task started in pool-2-thread-2 at 2025-11-09T01:57:57.052634500+05:00[Asia/Yekaterinburg]
+2025-11-09T01:57:57.119633 - Task completed in pool-2-thread-2 at 2025-11-09T01:57:57.119633+05:00[Asia/Yekaterinburg]
+2025-11-09T01:58:27.055292200 - Scheduler triggered at 2025-11-09T01:58:27.055292200+05:00[Asia/Yekaterinburg] - submitting parser task
+2025-11-09T01:58:27.056293600 - Task started in pool-2-thread-1 at 2025-11-09T01:58:27.056293600+05:00[Asia/Yekaterinburg]
+2025-11-09T01:58:27.107294300 - Task completed in pool-2-thread-1 at 2025-11-09T01:58:27.107294300+05:00[Asia/Yekaterinburg]
+2025-11-09T23:10:09.139398900 - Scheduler triggered at 2025-11-09T23:10:09.139398900+05:00[Asia/Yekaterinburg] - submitting parser task
+2025-11-09T23:10:09.140394900 - Task started in pool-2-thread-1 at 2025-11-09T23:10:09.140394900+05:00[Asia/Yekaterinburg]
+2025-11-09T23:10:10.950021 - Task completed in pool-2-thread-1 at 2025-11-09T23:10:10.950021+05:00[Asia/Yekaterinburg]
+2025-11-09T23:10:39.141835200 - Scheduler triggered at 2025-11-09T23:10:39.141835200+05:00[Asia/Yekaterinburg] - submitting parser task
+2025-11-09T23:10:39.142533100 - Task started in pool-2-thread-2 at 2025-11-09T23:10:39.142533100+05:00[Asia/Yekaterinburg]
+2025-11-09T23:10:39.673420100 - Task completed in pool-2-thread-2 at 2025-11-09T23:10:39.673420100+05:00[Asia/Yekaterinburg]
+2025-11-09T23:11:09.143265700 - Scheduler triggered at 2025-11-09T23:11:09.143265700+05:00[Asia/Yekaterinburg] - submitting parser task
+2025-11-09T23:11:09.143265700 - Task started in pool-2-thread-1 at 2025-11-09T23:11:09.143265700+05:00[Asia/Yekaterinburg]
+2025-11-09T23:11:09.166257300 - Task completed in pool-2-thread-1 at 2025-11-09T23:11:09.166257300+05:00[Asia/Yekaterinburg]
+2025-11-09T23:55:29.622685800 - Scheduler triggered at 2025-11-09T23:55:29.622685800+05:00[Asia/Yekaterinburg] - submitting parser task
+2025-11-09T23:55:29.623648300 - Task started in pool-2-thread-1 at 2025-11-09T23:55:29.623648300+05:00[Asia/Yekaterinburg]
+2025-11-09T23:55:31.157358300 - Task completed in pool-2-thread-1 at 2025-11-09T23:55:31.157358300+05:00[Asia/Yekaterinburg]
+2025-11-09T23:55:59.626742700 - Scheduler triggered at 2025-11-09T23:55:59.626742700+05:00[Asia/Yekaterinburg] - submitting parser task
+2025-11-09T23:55:59.627643 - Task started in pool-2-thread-2 at 2025-11-09T23:55:59.627643+05:00[Asia/Yekaterinburg]
+2025-11-09T23:55:59.646642600 - Task completed in pool-2-thread-2 at 2025-11-09T23:55:59.646642600+05:00[Asia/Yekaterinburg]
+2025-11-09T23:56:29.627465800 - Scheduler triggered at 2025-11-09T23:56:29.627465800+05:00[Asia/Yekaterinburg] - submitting parser task
+2025-11-09T23:56:29.627465800 - Task started in pool-2-thread-1 at 2025-11-09T23:56:29.627465800+05:00[Asia/Yekaterinburg]
+2025-11-09T23:56:29.637489800 - Task completed in pool-2-thread-1 at 2025-11-09T23:56:29.637489800+05:00[Asia/Yekaterinburg]
+2025-11-09T23:56:59.629011 - Scheduler triggered at 2025-11-09T23:56:59.629011+05:00[Asia/Yekaterinburg] - submitting parser task
+2025-11-09T23:56:59.629011 - Task started in pool-2-thread-2 at 2025-11-09T23:56:59.629011+05:00[Asia/Yekaterinburg]
+2025-11-09T23:56:59.638965400 - Task completed in pool-2-thread-2 at 2025-11-09T23:56:59.638005300+05:00[Asia/Yekaterinburg]
+2025-11-09T23:57:29.630054 - Scheduler triggered at 2025-11-09T23:57:29.630054+05:00[Asia/Yekaterinburg] - submitting parser task
+2025-11-09T23:57:29.630054 - Task started in pool-2-thread-1 at 2025-11-09T23:57:29.630054+05:00[Asia/Yekaterinburg]
+2025-11-09T23:57:29.639557700 - Task completed in pool-2-thread-1 at 2025-11-09T23:57:29.639557700+05:00[Asia/Yekaterinburg]
+2025-11-09T23:57:59.631153600 - Scheduler triggered at 2025-11-09T23:57:59.631153600+05:00[Asia/Yekaterinburg] - submitting parser task
+2025-11-09T23:57:59.631153600 - Task started in pool-2-thread-2 at 2025-11-09T23:57:59.631153600+05:00[Asia/Yekaterinburg]
+2025-11-09T23:58:00.204370700 - Task completed in pool-2-thread-2 at 2025-11-09T23:58:00.204370700+05:00[Asia/Yekaterinburg]
